@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">five</string>
+    <string name="usn">USN</string>
+    <string name="name">NAME</string>
+    <string name="city">CITY</string>
+    <string name="submit">SUBMIT</string>
+</resources>
